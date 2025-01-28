@@ -1,7 +1,6 @@
-Repositório Vento_Simul
+vento_simul
 
-
-Atualização: 17/06/2022
+Sofware educacional para envio de informaÃ§Ã£o de velocidade de vento para um arduino, que retransmite via RF em 433MHz para outro arduino que controla um inversor para acionamento de um motor trifÃ¡sico de 1CV. Software desenvolvido na IDE Lazarus. Compilador FreePascal.
 
 
 
