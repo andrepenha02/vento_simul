@@ -1,0 +1,73 @@
+
+
+22/12/2020
+
+
+do site do lazarus
+https://www.lazarus-ide.org/
+la embaixo, em "download" -> "packeges"
+http://packages.lazarus-ide.org/
+
+procurando por serial.
+tem esse pacote "LazSerial" que aparentemente é o componente oficial de 
+comunicação serial para Lazarus (já que está na lista de downloads do site oficial)
+
+e pelo que olhei no codigo do LazSerial, ele é baseado no TcomPort:
+
+(******************************************************
+ * lazSerialSetup                                     *
+ *                                                    *
+ * written by Jurassic Pork  O3/2013                  *
+ * based on TComport TcomSetupFrm                     *
+ *****************************************************)   arquivo lazserialsetup
+
+
+
+
+home
+https://github.com/JurassicPork/TLazSerial
+
+
+
+---------------------------
+
+para instalar
+****************
+
+
+1- 
+descompactar o arquivo "LazSerial.zip"
+
+IMPORTANTE:
+diferente do delphi, apos instalar o Lazarus vai procurar os arquivos desse componentes
+da pasta que ele instalou originalmente.
+por isso, é bom deixar para descompactar dentro da pasta do proprio Lazarus
+
+
+2- abrir o lazarus
+
+3- ir em 
+pacotes -> abrir pacote (.lpk)
+
+selecionar o arquivo "LazSerialPort.lpk" da pasta descompactada
+
+5- clicar em "compilar"
+
+6- clicar em Usar -> Instalar
+
+vai pedir para Reconstruir o lazarus, clicar em "Sim"
+
+
+
+Vai aparecer na aba de ferramentes em "LazSerial"
+
+---------------------------------------
+
+
+
+
+
+
+
+
+

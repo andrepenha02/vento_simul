@@ -1,0 +1,19 @@
+
+
+virtual Wire
+
+
+usada para comunicar um arduino com outro usando modulos RF 433MHz
+
+
+Para instalar esse biblioteca, basta clicar em:
+
+Sketch > Incluir Biblioteca > Adicionar biblioteca.zip > Selecione o Arquivo .zip que você baixou
+
+
+
+https://www.youtube.com/watch?v=B9gvxDHW65A
+Comunicação sem fio entre Arduinos usando módulos RF TX e RX 433MHz
+
+
+https://marlonnardi.com/2020/12/08/comunicacao-sem-fios-entre-arduinos-com-modulos-rf-tx-e-rx-433mhz/
